@@ -1,0 +1,31 @@
+{
+    "data":[
+        {
+            "firstName":"John",
+            "lastName":"Doe",
+            "departmentId":"1",
+            "department":"IT",
+            "gender":"Male",
+            "email":"John@outlook.com",
+            "phoneNo":"9898987670"
+        },
+        {
+            "firstName":"Aryan",
+            "lastName":"Srivastava",
+            "departmentId":"2",
+            "department":"Sales",
+            "gender":"Male",
+            "email":"Aryan@outlook.com",
+            "phoneNo":"9898987690"
+        },
+        {
+            "firstName":"Rohit",
+            "lastName":"Jaswal",
+            "departmentId":"3",
+            "department":"Marketing",
+            "gender":"Male",
+            "email":"Rohit@outlook.com",
+            "phoneNo":"9898987671"
+        }
+    ]
+}
